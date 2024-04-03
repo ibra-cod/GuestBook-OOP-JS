@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    padding: 5px 20px;
+    margin-top: 50px;
+    outline: none;
+}
+.btn-btn{
+    padding: 7px 20px;
+
+}
+
